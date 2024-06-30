@@ -1,6 +1,6 @@
 # Vanthasix
 
-![GitHub commit](https://img.shields.io/github/last-commit/Vanthasixoss/Vanthasix) ![GitHub Release](https://img.shields.io/github/v/release/Vanthasixoss/Vanthasix)
+![GitHub commit](https://img.shields.io/github/last-commit/VANTHSY/Vanthasix) ![GitHub Release](https://img.shields.io/github/v/release/VANTHSY/Vanthasix)
 
 > [!NOTE]
 > This version of Vanthasix 14 is built to be clean, fast and stable. It lacks highly specific features such as Linkvertise and Stripe billing but retains all of the functionality of previous Vanthasix releases (v11, v12, v13).
